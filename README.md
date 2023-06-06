@@ -25,7 +25,7 @@
 
 ---
 
-### :man_technologist: About Me : I am a Full Stack Developer, Blockchain Developer and Aritificial Intelligence enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+### :man_technologist: About Me : I am a Full Stack Developer, Blockchain Developer and Aritificial Intelligence enthusiast from India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
 - :telescope: I’m working as a Research and Development Engineer and contributing to Blockchain and Cryptography.
 - :seedling: Exploring Artificial Intelligence and Blockchain
 
